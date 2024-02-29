@@ -1,4 +1,4 @@
-# Hacks1_8
+# hack_git_1
 
 ✅[repo-hack-1](https://github.com/arturomendoza/git_h_1)
 <br><br>
